@@ -1,7 +1,7 @@
 body {
 	overflow: hidden;
-	font-family: sans-serif;
-	color: black;
+	font-family: verdana;
+	color: white;
 	
 	--ffd-min: 200px;
 	
@@ -28,8 +28,8 @@ body {
 	--menubuttoncontenty: calc(var(--menubuttonbordery) - calc(var(--menupaddingy) * 2));
 }
 
-body[data-theme~="iodinedark"] {
-	--barcolor: #2b2b2b;
+body[data-theme~="sienna"] {
+	--barcolor: #D1894A;
 	--subcolor: #242424;
 	--barfontcolor: #dfdfdf;
 	--subfontcolor: #dfdfdf;
@@ -52,12 +52,12 @@ body[data-theme~="webplayer"] {
 	--barbuttonshadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
 }
 
-body[data-theme~="navy"] {
+body[data-theme~="glacous"] {
 	--barcolor: #053ba1;
 }
 
 #mainarea {
-	background-color: black;
+	background-color: #D1894A;
 	position: absolute;
 	width: 100vw;
 	height: 100vh;
