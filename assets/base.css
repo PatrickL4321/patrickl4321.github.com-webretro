@@ -14,7 +14,7 @@ body {
 	--menupaddingy: 12px;
 	--menupaddingx: 16px;
 	--subpadding: 4px 12px;
-	--rounding: 0px;
+	--rounding: 5px;
 	--barcolor: #dfdfdf;
 	--subcolor: #d8d8d8;
 	--barfontcolor: #000000;
@@ -57,7 +57,7 @@ body[data-theme~="glacous"] {
 }
 
 #mainarea {
-	background-color: #D1894A;
+	background-color: #cc9202;
 	position: absolute;
 	width: 100vw;
 	height: 100vh;
