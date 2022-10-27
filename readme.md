@@ -1,5 +1,6 @@
 # Project Sienna
-**WIP** Web Emu Based Off Of WebRetro
+Emulation In The Web With Style
+**WARINING** STILL IN DEVELOPMENT.
 ______________________________________
 # Supported Cores
 
