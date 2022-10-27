@@ -37,5 +37,5 @@ Changes:
 _______________________________________
 # To Do
 
-Get PWA Working With Logo
-Work On UI A Bit
+* Get PWA Working With Logo
+* Work On UI A Bit
