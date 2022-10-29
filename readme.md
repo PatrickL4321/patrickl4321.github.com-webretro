@@ -2,6 +2,9 @@
 Emulation In The Web With Style
 **WARINING** STILL IN DEVELOPMENT.
 ______________________________________
+# Supported Controllers
+If You Find A Controller That Works, Make A Pull Request And Say If It Works Or Not.
+______________________________________
 # Supported Cores
 
 * a5200 (Atari 5200)
