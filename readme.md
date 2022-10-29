@@ -3,7 +3,9 @@ Emulation In The Web With Style
 **WARINING** STILL IN DEVELOPMENT.
 ______________________________________
 # Supported Controllers
-If You Find A Controller That Works, Make A Pull Request And Say If It Works Or Not.
+All Controllers Should Work, You Have To Manually Map Them In Retroarch's Settings.
+Tested:
+8BitDo SN30 Gamepad
 ______________________________________
 # Supported Cores
 
