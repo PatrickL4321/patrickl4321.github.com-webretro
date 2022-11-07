@@ -57,7 +57,7 @@ body[data-theme~="glacous"] {
 }
 
 #mainarea {
-	background-color: #cc9202;
+	background-image: url("https://gifimage.net/wp-content/uploads/2018/11/gif-space-loop.gif");
 	position: absolute;
 	width: 100vw;
 	height: 100vh;
