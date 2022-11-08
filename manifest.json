@@ -1,26 +1,26 @@
 {
-	"name": "webretro",
-	"description": "RetroArch in your browser!",
+	"name": "Starship",
+	"description": "i dont have a description yet"
 	"icons": [
 		{
-			"src": "assets/icons/icont256.png",
+			"src": "https://raw.githubusercontent.com/ShinxDev/Starship/master/assets/icons/783442-200_256x256.png",
 			"sizes": "256x256",
 			"type": "image/png"
 		},
 		{
-			"src": "assets/icons/iconm128.png",
+			"src": "https://raw.githubusercontent.com/ShinxDev/Starship/master/assets/icons/783442-200_1_128x128.png",
 			"sizes": "128x128",
 			"type": "image/png",
 			"purpose": "maskable"
 		},
 		{
-			"src": "assets/icons/iconm256.png",
+			"src": "https://raw.githubusercontent.com/ShinxDev/Starship/master/assets/icons/783442-200_256x256.png",
 			"sizes": "256x256",
 			"type": "image/png",
 			"purpose": "maskable"
 		},
 		{
-			"src": "assets/icons/iconm512upscaledm256.png",
+			"src": "https://raw.githubusercontent.com/ShinxDev/Starship/master/assets/icons/783442-200_256x256_1_512x512.png",
 			"sizes": "512x512",
 			"type": "image/png",
 			"purpose": "maskable"
