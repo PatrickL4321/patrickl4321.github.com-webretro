@@ -1,5 +1,4 @@
-# Project Sienna
-Emulation In The Web With Style
+# Starship
 **WARINING** STILL IN DEVELOPMENT.
 ______________________________________
 # Supported Controllers
@@ -34,12 +33,8 @@ ______________________________________
 * Virtual Jaguar (Atari Jaguar)
 * Yabause (Sega Saturn)
 _______________________________________
-# Update: Halloween
+# Update: Branding
 
-Happy Halloween! Its Time For An Update!
-
-Changes: 
-* Changed Color To A Dark Orange
 _______________________________________
 # To Do
 
