@@ -1,4 +1,4 @@
-# Starship
+# Retro
 **WARINING** STILL IN DEVELOPMENT.
 ______________________________________
 # Supported Controllers
@@ -40,3 +40,4 @@ _______________________________________
 
 * Get PWA Working With Logo
 * Work On UI A Bit
+* Netplay
